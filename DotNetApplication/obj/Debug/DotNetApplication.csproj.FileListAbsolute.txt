@@ -1,0 +1,7 @@
+C:\Users\indu\Downloads\DotNetApplication\DotNetApplication\bin\DotNetApplication.dll.config
+C:\Users\indu\Downloads\DotNetApplication\DotNetApplication\bin\DotNetApplication.dll
+C:\Users\indu\Downloads\DotNetApplication\DotNetApplication\bin\DotNetApplication.pdb
+C:\Users\indu\Downloads\DotNetApplication\DotNetApplication\obj\Debug\DotNetApplication.csproj.CoreCompileInputs.cache
+C:\Users\indu\Downloads\DotNetApplication\DotNetApplication\obj\Debug\DotNetApplication.dll
+C:\Users\indu\Downloads\DotNetApplication\DotNetApplication\obj\Debug\DotNetApplication.pdb
+C:\Users\indu\Downloads\DotNetApplication\DotNetApplication\obj\Debug\DotNetApplication.csprojResolveAssemblyReference.cache
